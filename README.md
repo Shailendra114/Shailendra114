@@ -24,6 +24,7 @@ Specific fields of interest include Data Science, Machine learning, Cloud operat
 * 💻  Open source is something I'm interested in
 * 👋 I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :) ![image](https://user-images.githubusercontent.com/88799249/150937121-e509080c-2f88-4db7-b652-4aca517637a4.png)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shailendra114 &theme=radical)
  
 
 
